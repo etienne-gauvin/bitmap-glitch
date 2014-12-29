@@ -6,6 +6,6 @@ You can change configuration in _config.coffee_ and modify/create filters in _fi
 
 To execute your code use this in your *nix console :
 
-```coffee
+```bash
 coffee -c *.coffee && coffee glitch.coffee
 ```
